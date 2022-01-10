@@ -1,3 +1,3 @@
-Print("Hello all")
+print("Hello all")
 #adding another line
 print("hey!!")
